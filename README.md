@@ -7,9 +7,7 @@
   &nbsp;
   <img src="screenshots/exercise.png" alt="exercise" style="width: 30%;">
 </p>
-
 <br><br>
-
 <p align="center">
   <img src="screenshots/exercisesStatus.png" alt="exercises status" style="width: 30%;">
   &nbsp;
@@ -17,9 +15,7 @@
   &nbsp;
   <img src="screenshots/exerciseEnd.png" alt="exercise end" style="width: 30%;">
 </p>
-
 <br><br>
-
 <p align="center">
   <img src="screenshots/metricBMI.png" alt="metric bmi" style="width: 30%;">
   &nbsp;
