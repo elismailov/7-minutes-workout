@@ -1,3 +1,15 @@
+## Overview
+
+This app is designed using XML layouts and includes the following features:
+
+- A **7-minute workout routine** with visual guides for each exercise.
+- Integration of **Room Database** to store and track completed workout history.
+- Utilizes **Text-to-Speech (TTS)** functionality to announce exercises and instructions.
+- Incorporates **Media Player** and sound effects for a better workout experience.
+- Includes **timers** for exercise intervals and rest periods.
+- A **BMI Calculator** with support for metric and US units.
+- A detailed history log of completed workouts for progress tracking.
+
 # Screenshots
 
 <p align="center">
