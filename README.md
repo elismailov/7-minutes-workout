@@ -1,4 +1,4 @@
-## Overview
+# Overview
 
 This app is designed using XML layouts and includes the following features:
 
